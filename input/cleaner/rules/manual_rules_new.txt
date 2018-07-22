@@ -1,0 +1,199 @@
+in' 	ing 
+'in 	ing 
+ i'm 	 i am 
+ im 	 i am 
+ 'im 	 him 
+ f'real 	 for real 
+ fo'sho 	 for sure 
+ n'me 	 and me 
+ sho'nuff 	 sure enough 
+ y'all 	 you all 
+ aight 	 alright 
+ o'clock 	 of the clock 
+ o'the 	 of the 
+ let's 	 let us 
+'s 	 
+s' 	s 
+ cuz 	 because 
+ thangs 	 things 
+ c'mon 	 come on 
+ t'ain't 	 it is not 
+ i'ma 	 i am 
+ imma 	 i am 
+ nuff 	 enough 
+ 'cause 	 because 
+ 'member 	 remember 
+ 'til 	 until 
+ 'till 	 until 
+ 'tis 	 it is 
+ 'twas 	 it was 
+ 'twill 	 it will 
+ dont 	 don not 
+ cant 	 can not 
+ isnt 	 is not 
+ youd 	 you had 
+ theyd 	 they had 
+ chil'ren 	 children 
+ diff'rent 	 different 
+ e're 	 before 
+ ev'ry 	 every 
+ ev'rything 	 everything 
+ father'd 	 fathered 
+ heav'n 	 heaven 
+ lov'd 	 loved 
+ mother'd 	 mothered 
+ ne'er 	 never 
+ o'er 	 over 
+ o'er 	 over 
+ show'd 	 showed 
+ tho't 	 thought 
+ throught 	 throughout 
+ throw'd 	 threw 
+ turn'd 	 turned 
+ wander'd 	 wandered 
+ whisper'd 	 whispered 
+ gotta 	 have to 
+ tryna 	 trying to 
+ tryanna 	 trying to 
+ wanna 	 want to 
+ wanna' 	 want to 
+ gonna 	 going to 
+ gonna' 	 going to 
+ inna 	 in to 
+ lemme 	 let me 
+ gimme 	 give me 
+ woulda 	 would have 
+ shoulda 	 should have 
+ coulda 	 could have 
+ lotta 	 lot of 
+ po' 	 poor 
+ mo' 	 more 
+ wit' 	 with 
+ sho' 	 sure 
+ o' 	 of 
+ yo' 	 your 
+ tho' 	 though 
+ thro' 	 through 
+ thru 	 through 
+ ma'am 	 madam 
+ ma'm 	 madam 
+ jr 	 junior 
+ jr\. 	 junior 
+ ms 	 missus 
+ ms\. 	 missus 
+ mrs 	 missus 
+ mrs\. 	 missus 
+ ok 	 okay 
+ o\.k\. 	 okay 
+ etc\. 	 etcetera 
+ i\.d\. 	 identification 
+ o\.d\. 	 overdose 
+ ltd\. 	 limited 
+ c\.o\.d\. 	 cash 
+ b\.o\. 	 body 
+ p\.m\. 	 in the evening 
+ a\.m\. 	 in the morning 
+ a\.k\.a\. 	 also known as 
+ mt\. 	 mount 
+ i\.e\. 	 that is 
+ e\.g\. 	 for example 
+ u\.s\. 	 usa 
+ u\.s\.a\. 	 usa 
+ b 	 be 
+ c 	 see 
+ r 	 are 
+ u 	 you 
+ y 	 why 
+ o 	 oh 
+ why'm 	 why am 
+ how'm 	 how am 
+ dontcha 	 do you not 
+ wontcha 	 will you not 
+ betcha 	 bet you 
+ ain't 	 is not 
+ can't 	 can not 
+ won't 	 will not 
+ cain't 	 can not 
+ ican't 	 i can not 
+ he'll've 	 he will have 
+ she'll've 	 she will have 
+ they'll've 	 they will have 
+'d 	 had 
+'ll 	 will 
+'re 	 are 
+'ve 	 have 
+n't 	 not 
+ gettin 	 getting 
+ tryin 	 trying 
+ nothin 	 nothing 
+ comin 	 coming 
+ lookin 	 looking 
+ talkin 	 talking 
+ doin 	 doing 
+ somethin 	 something 
+ feelin 	 feeling 
+ sayin 	 saying 
+ runnin 	 running 
+ livin 	 living 
+ sittin 	 sitting 
+ givin 	 giving 
+ waitin 	 waiting 
+ ridin 	 riding 
+ holdin 	 holding 
+ rollin 	 rolling 
+ smokin 	 smoking 
+ movin 	 moving 
+ walkin 	 walking 
+ rockin 	 rocking 
+ killin 	 killing 
+ trippin 	 tripping 
+ leavin 	 leaving 
+ havin 	 having 
+ blowin 	 blowing 
+ hittin 	 hitting 
+ watchin 	 watching 
+ poppin 	 popping 
+ lovin 	 loving 
+ puttin 	 putting 
+ hangin 	 hanging 
+ workin 	 working 
+ kickin 	 kicking 
+ chillin 	 chilling 
+ drinkin 	 drinking 
+ bustin 	 busting 
+ screamin 	 screaming 
+ sellin 	 selling 
+ rappin 	 rapping 
+ sippin 	 sipping 
+ playin 	 playing 
+ vs 	 versus 
+ vs. 	 versus 
+ nigga 	 nigger 
+ niggas 	 niggers 
+ niggaz 	 niggers 
+ n 	 and 
+ 'n' 	 and 
+ 'n 	 and 
+ darlin 	 darling 
+ fo 	 for 
+ fuckin 	 fucking 
+ goin 	 going 
+ l\.a\. 	 la 
+ la\. 	 la 
+ lil 	 little 
+ mornin 	 morning 
+ mr\. 	 mister 
+ nothin 	 nothing 
+ ol' 	 old 
+ outta 	 out of 
+ tha 	 the 
+ 'em 	 them 
+ thang 	 thing 
+ thinkin 	 thinking 
+ why'all 	 you all 
+ dem 	 them 
+ gon 	 going to 
+ gon' 	 going to 
+'m 	 them 
+'em 	 them 
+'n'	 and 
